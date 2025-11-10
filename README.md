@@ -14,20 +14,8 @@
 - 🎓 B.Tech CSE (2027)
 - 💻 Passionate Android Developer focused on **Jetpack Compose**, **MVVM**, **Room**, and **Firebase**
 - 🛠️ Currently exploring **advanced Android architecture** and improving **UI/UX**
-- 🔁 Practicing DSA in **Java** and **C++**
+- 🔁 Practicing DSA in **Java**
 - 💬 Ask me about **Jetpack Compose**, **Android Architecture**, or **Backend Learning with Java**
-
----
-
-## 🚀 Featured Projects
-
-| 📱 Project        | ⚙️ Tech Stack                         | 🔗 Link                                                                        |
-|-------------------|---------------------------------------|--------------------------------------------------------------------------------|
-| **🎧 NextTune**   | Jetpack Compose, MVVM                 | 🚧 Coming Soon Real-time YouTube Video Player with friends                     |
-| **📰 MyNews App** | Jetpack Compose, MVVM, Room, Retrofit | [GitHub](https://github.com/adl02/MyNews)<br>Short-form news app               |
-| **☀️ WeatherApp** | Java, OpenWeather API                 | [GitHub](https://github.com/adl02/WeatherApp)<br>Shows weather data for cities |
-| **🤖 JetBot**     | Kotlin, AI Logic                      | [GitHub](https://github.com/adl02/JetBot)<br>Simple ChatBot implementation     |
-| **📝 JetNoteApp** | Jetpack Compose, Room                 | [GitHub](https://github.com/adl02/JetNoteApp)<br>Create and manage notes       |
 
 ---
 
@@ -36,7 +24,6 @@
 ### 🚀 Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
@@ -103,4 +90,5 @@
 ---
 
 <p align="center"><i>“Build. Learn. Repeat.”</i></p>
+
 
